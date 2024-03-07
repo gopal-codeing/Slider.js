@@ -58,15 +58,6 @@ export default function App() {
       </Swiper>
 
 
-
-      <br></br>
-      <br></br>
-
-      <Swaper2></Swaper2>
-
-
-
-
     </>
   );
 }
